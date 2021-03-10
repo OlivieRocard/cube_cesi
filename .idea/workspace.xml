@@ -10,4 +10,14 @@
   <component name="TaskManager">
     <servers />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="342" key="#Notifications" timestamp="1615386161060">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="342" key="#Notifications/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1615386161060" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1615386339218">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040/1920.0.1366.728@0.0.1920.1040" timestamp="1615386339218" />
+  </component>
 </project>
